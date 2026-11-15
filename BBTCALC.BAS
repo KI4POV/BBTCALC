@@ -65,7 +65,7 @@ PRINT "TURNS RATIOS"
 
 FOR I = 1 TO 20
         RATIOMULTIPLE = (TURNSRATIO * I)
-        L = ((AL * I ^ 2) / 1000) / 1000000
+        L = ((AL * I ^ 2) / 1000000000)
         XL = 2 * 3.14159 * (FOP * 1000) * L
         IF XL >= (4 * ZDEN) THEN
                 COLOR 10, 0
