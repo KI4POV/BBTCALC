@@ -9,3 +9,5 @@ The output displays possible turns ratios, with multiples from 1-20. Ratios in g
 This was written in QBX (QBasic compatible) using DOSBOX. The code should run under any of the QBasic variants. The binary is DOS-compatible. You will need a color display to see the results differentiated based on inductive reactance.
 
 This code released without license or any guarantee of accuracy or performance. Do with it what you will. 
+
+-N4NPN
